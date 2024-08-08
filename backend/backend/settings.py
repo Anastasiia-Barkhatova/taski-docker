@@ -9,7 +9,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['158.160.76.66', '127.0.0.1', 'localhost', 'mytasklist.zapto.org']
 
-
 # Application definition
 
 INSTALLED_APPS = [
